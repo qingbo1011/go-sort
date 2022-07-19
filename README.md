@@ -1,7 +1,8 @@
 # Go排序
 
 个人博客：https://www.qingbo1011.top/
-博客原文![点击此处前往](https://www.qingbo1011.top/2022/04/28/Go%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
+
+博客原文[点击此处前往](https://www.qingbo1011.top/2022/04/28/Go%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/)
 
 [八大排序算法的Golang实现](https://juejin.cn/post/7066728890575618078#heading-0)
 
